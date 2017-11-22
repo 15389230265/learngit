@@ -1,1 +1,3 @@
   测试git功能
+  Git is a distributed version control system.
+  Git is free software.
